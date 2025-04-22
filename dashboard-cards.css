@@ -1,0 +1,18 @@
+body {
+    background: #eef5f9;
+}
+
+.img-card img {
+    width: 350px;
+    height: 220px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+
+.cad-img-center {
+    background: #fff;
+    width: 350px;
+    height: 470px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
